@@ -42,13 +42,13 @@
         <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> 
     </a> 
     <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> 
+        <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="flask" width="40" height="40"/> 
     </a> 
     <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> 
     </a> 
     <a href="https://wiki.python.org/moin/TkInter" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/TkinterLogo.png" alt="tkinter" width="40" height="40"/> 
+        <img src="https://media.licdn.com/dms/image/v2/D4E12AQHv2aLx6hF3Iw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1704047667318?e=2147483647&v=beta&t=QDjTnwadhYTAibxU29QI6N1QlMXE-1F7sNva5q5w_lA" alt="tkinter" width="40" height="40"/> 
     </a> 
     <a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> 
