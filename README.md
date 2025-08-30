@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou o Fabio Lucas!👋</h1>
-<h3 align="center">Desenvolvedor Backend | Professor de informática e programação</h3>
+<h3 align="center">Engenheiro de dados</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabiolucasz&label=Profile%20views&color=0e75b6&style=flat" alt="fabiolucasz" /> </p>
 
@@ -50,9 +50,7 @@
     <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> 
     </a> 
-    <a href="https://wiki.python.org/moin/TkInter" target="_blank" rel="noreferrer"> 
-        <img src="https://media.licdn.com/dms/image/v2/D4E12AQHv2aLx6hF3Iw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1704047667318?e=2147483647&v=beta&t=QDjTnwadhYTAibxU29QI6N1QlMXE-1F7sNva5q5w_lA" alt="tkinter" width="40" height="40"/> 
-    </a> 
+    
     <a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> 
     </a> 
