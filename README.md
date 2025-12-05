@@ -1,5 +1,13 @@
 <h1 align="center">Olá, eu sou o Fabio Lucas!👋</h1>
 <h3 align="center">Engenheiro de dados</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/caiomoliveira/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:moliveiracaio@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail" alt="Email" />
+  </a>
+</p>
 
 <h2>🛠️ Tech Stack 💻</h2>
 <h3 align="left">Languages and Tools:</h3>
