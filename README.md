@@ -1,23 +1,6 @@
 <h1 align="center">Olá, eu sou o Fabio Lucas!👋</h1>
 <h3 align="center">Engenheiro de dados</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fabiolucasz&label=Profile%20views&color=0e75b6&style=flat" alt="fabiolucasz" /> </p>
-
-<a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fabiolucasz&theme=onedark&no-frame=true" alt="fabiolucasz" /></a> </p>
-
-<h2>📧 Contato</h2>
-- 📫 Como me encontrar <a href="mailto:fabiolucamz@gmail.com">fabiolucamz@gmail.com</a>
-
-<h3 align="left">Conecte-se comigo:</h3>
-<div>
-    <a href="https://www.linkedin.com/in/fabiolucamz/">
-        <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat" alt="LinkedIn">
-    </a>
-</div>
-
-
-
 <h2>🛠️ Tech Stack 💻</h2>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -64,6 +47,25 @@
         <img src="https://airflow.apache.org/images/feature-image.png" alt="airflow" width="40" height="40"/> 
     </a>
 </p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fabiolucasz&label=Profile%20views&color=0e75b6&style=flat" alt="fabiolucasz" /> </p>
+
+<a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fabiolucasz&theme=onedark&no-frame=true" alt="fabiolucasz" /></a> </p>
+
+<h2>📧 Contato</h2>
+- 📫 Como me encontrar <a href="mailto:fabiolucamz@gmail.com">fabiolucamz@gmail.com</a>
+
+<h3 align="left">Conecte-se comigo:</h3>
+<div>
+    <a href="https://www.linkedin.com/in/fabiolucamz/">
+        <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat" alt="LinkedIn">
+    </a>
+</div>
+
+
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fabiolucasz&show_icons=true&locale=en&layout=compact" alt="fabiolucasz" /></p>
 
