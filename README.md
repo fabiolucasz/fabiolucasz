@@ -1,10 +1,10 @@
 <h1 align="center">Olá, eu sou o Fabio Lucas!👋</h1>
 <h3 align="center">Engenheiro de dados</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/caiomoliveira/">
+  <a href="https://www.linkedin.com/in/fabiolucamz/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="mailto:moliveiracaio@gmail.com">
+  <a href="mailto:fabiolucamz@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail" alt="Email" />
   </a>
 </p>
@@ -61,16 +61,6 @@
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fabiolucasz&theme=onedark&no-frame=true" alt="fabiolucasz" /></a> </p>
-
-<h2>📧 Contato</h2>
-- 📫 Como me encontrar <a href="mailto:fabiolucamz@gmail.com">fabiolucamz@gmail.com</a>
-
-<h3 align="left">Conecte-se comigo:</h3>
-<div>
-    <a href="https://www.linkedin.com/in/fabiolucamz/">
-        <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat" alt="LinkedIn">
-    </a>
-</div>
 
 
 
