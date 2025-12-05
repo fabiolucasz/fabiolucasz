@@ -9,53 +9,49 @@
   </a>
 </p>
 
-<h2>🛠️ Tech Stack 💻</h2>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-    </a> 
-    <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> 
-        <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="numpy" width="40" height="40"/> 
-    </a> 
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-    </a> 
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.selenium.dev" target="_blank" rel="noreferrer" style="background-color: blank;"> 
-        <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> 
-    </a> 
-    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="flask" width="40" height="40"/> 
-    </a> 
-    <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> 
-    </a> 
-    <a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> 
-    </a> 
-    <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/> 
-    </a>
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> 
-    </a>
-    <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://airflow.apache.org/images/feature-image.png" alt="airflow" width="40" height="40"/> 
-    </a>
+## 🔧 Tech Stack
+
+**Languages & Frameworks**
+<p align="left">
+
+
+<!-- Languages & Frameworks -->
+
+<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+<a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a>
+<a href="https://fastapi.tiangolo.com/"><img src="https://github.com/user-attachments/assets/92f6bf7c-f6dd-480f-95c7-b1d399dfc495" alt="FastAPI" width="40" height="40"/></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/></a>
+<a href="https://www.selenium.dev" target="_blank" rel="noreferrer" style="background-color: blank;"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/></a>
+<a href="https://streamlit.io/" target="_blank" rel="noreferrer"><img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="numpy" width="40" height="40"/></a>
+<a href="https://scrapy.org/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/733635?s=48&v=4" alt="scrapy" width="40" height="40"/></a>
 </p>
 
+<!-- Data & Storage -->
+**Data & Storage**
+<p align="left">
+<a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
+<a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
+<a href="https://redis.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/></a>
+</p>
+
+<!-- Workflow & Orchestration -->
+**Workflow & Orchestration**
+<p align="left">
+<a href="https://airflow.apache.org/"><img src="https://github.com/user-attachments/assets/663a0f3e-0826-4ca1-be45-29419ff0b524" alt="Airflow" width="40" height="40"/></a>
+<a href="https://www.getdbt.com/"><img src="https://github.com/user-attachments/assets/2a98601b-8b85-4cc7-b5ee-e65fc3f52668" alt="dbt" width="40" height="40"/></a>
+<a href="https://n8n.io/"><img src="https://github.com/user-attachments/assets/719f1aa5-ef60-40ce-89cb-abb22755a051" alt="n8n" width="40" height="40"/></a>
+</p>
+
+<!-- Cloud & DevOps -->
+
+**Cloud & DevOps**
+<p align="left">
+<a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
+<a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
+<a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
+<a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
+
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabiolucasz&label=Profile%20views&color=0e75b6&style=flat" alt="fabiolucasz" /> </p>
 
