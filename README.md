@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou o Fabio Lucas!👋</h1>
-<h3 align="center">Engenheiro de dados</h3>
+<h3 align="center">Desenvolvedor Python</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/fabiolucamz/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
